@@ -1,12 +1,12 @@
-# React + Vite
+🩺 Lifestyle Medicine Appointment Booking App Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React-based web application to book appointments with lifestyle medicine experts. It highlights six key pillars of lifestyle medicine through a modern, visually engaging interface and includes functionality for users to search by condition, location, and insurance provider.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**🔍 Features**
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🖼️ Beautiful homepage with informative visual elements.
+- 📋 Search form to find doctors based on multiple filters.
+- 🧱 "Six Pillars of Lifestyle Medicine" interactive section.
+- 💡 Fully responsive for desktop, tablet, and mobile devices.
+- ⚛️ Built using React and CSS (custom media queries).
